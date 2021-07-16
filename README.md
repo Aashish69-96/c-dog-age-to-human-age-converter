@@ -1,2 +1,2 @@
-# c-dog-age-to-human-age-converter
+# Are you a dog love and want to know their age in human age 
 Dogs mature at a faster rate than human beings. If you own a dog, you might’ve heard this rule: one year for Snoopy equals seven years for you. Turns out, the math isn’t that simple. Dogs mature more quickly than we do early on.  Here’s how we can convert your dog’s age into human years:  The first two years of a dog’s life count as 21 human years. Each following year counts as 4 human years. Woof  So a one-year-old dog is 10.5 years old in human years, and a two-year-old dog is 21 years old in human years… 
